@@ -1,24 +1,25 @@
 body{
-    background-color: #f2bbeb;
+    background-color: purple;
 }
 p{
     font-family: monospace;
-    text-align: left;
-    color: #689bed
+    text-align: center;
+    color: lightpink
 }
 h1,h2,h3,h4,h5,h6{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #2c7a79;
+    color: lightyellow;
     font-style: italic;
-    text-align: center;
+    text-align: right;
 }
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 100px;
-    color:#ffffff;
+    font-size: 150px;
+    color:white;
     font-style: normal;
-    text-align: center;
+   
 }
 h2{
-    color: #000000;
+    color: black;
 }
+ 
